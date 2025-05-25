@@ -1,4 +1,4 @@
-import{_ as e}from"./plugin-vue_export-helper-DlAUqK2U.js";import{c as t,d as o,o as s}from"./app-KGxCXXFz.js";const a={};function r(n,h){return s(),t("div",null,[o(` 
+import{_ as e}from"./plugin-vue_export-helper-DlAUqK2U.js";import{c as t,d as o,o as s}from"./app-CPMNw_DK.js";const a={};function r(n,h){return s(),t("div",null,[o(` 
 # 这是项目主页的案例。你可以在这里放置你的主体内容。
 
 # 想要使用此布局，你需要在页面 front matter 中设置 \`home: true\`。
